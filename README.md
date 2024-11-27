@@ -2,6 +2,7 @@
 
 This project aims to bridge the gap between raw datasets and actionable insights by providing a user-friendly platform for data analysis and machine learning. It empowers professionals from diverse fields to make data-driven decisions effortlessly, without requiring advanced technical expertise.
 
+
 ---
 
 ## Problem Statement  
@@ -32,6 +33,9 @@ The platform automates complex data processes and simplifies machine learning th
    - Drives efficiency, accuracy, and organizational growth.  
 
 ---
+
+https://www.canva.com/design/DAGXqaKxDHI/gIHPE8EPAorxwzI5ULB_NQ/edit?utm_content=DAGXqaKxDHI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 
 ## Installation  
 
